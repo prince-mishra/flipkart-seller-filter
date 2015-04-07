@@ -1,0 +1,12 @@
+{
+	"name" : "Flipkart Seller Filter",
+	"version" : "0.0.2",
+	"manifest_version" : 2,
+	"description" : "Adds Seller filter to flipkart results",
+	"content_scripts": [
+		{
+		  "matches": ["http://www.flipkart.com/*"],
+		  "js": ["jquery-1.11.0.min.js", "flipkart_seller_filter.js"]
+		}
+    ]
+}
