@@ -20,4 +20,5 @@ Now just go to flipkart and press CTRL+F and search "Seller Filter" and you will
 
 The extension will highlight the products from the seller you entered. In your case, it is WS Retail. 
 
+[Amit Saraswat] (https://github.com/amit5148) is the original author. Many thanks!
 Thanks [Nivish Sharma](https://www.quora.com/profile/Nivish-Sharma) for the screenshots and documentation. Much appreciated!
